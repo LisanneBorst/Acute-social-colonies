@@ -1,0 +1,68 @@
+{
+ "edf_folder": "C:/Users/lisan/OneDrive/Bureaublad/RP/EEG_acute_colonies/edfs",
+ "event_trace_folder": "C:/Users/lisan/OneDrive/Bureaublad/RP/EEG_acute_colonies/event_trace",
+ "coordinate_data_folder": "C:/Users/lisan/OneDrive/Bureaublad/RP/EEG_acute_colonies/coordinate_data_folder",
+ "nwb_files_folder": "C:/Users/lisan/OneDrive/Bureaublad/RP/EEG_acute_colonies/nwb_files",
+ "plots_folder": "C:/Users/lisan/OneDrive/Bureaublad/RP/EEG_acute_colonies/plots",
+ "epochs_folder": "C:/Users/lisan/OneDrive/Bureaublad/RP/EEG_acute_colonies/epochs",
+ "subject_metadata": "C:/Users/lisan/OneDrive/Bureaublad/RP/EEG_acute_colonies/taini_colonies_main/subject_metadata.xlsx",
+ "metadata": "C:/Users/lisan/OneDrive/Bureaublad/RP/EEG_acute_colonies/taini_colonies_main/metadata.xlsx",
+ "lab": "Kas_Lab",
+ "experimenter": "MvD, VS, LB",
+ "institution": "University of Groningen",
+ "lcut": 0.5,
+ "hcut": 200,
+ "art": null,
+ "low_val": 0.006,
+ "high_val": 0.013,
+
+ "electrode_info": {
+    "EEG 3": [
+     "OFC_right",
+     2.7,
+     -0.75,
+     2.4,
+     "depth"
+    ],
+
+   "EEG 4": [
+    "S_right",
+    -0.5,
+    -3,
+    0,
+    "skull"
+  ],
+
+  "EEG 7": [
+    "EMG_right",
+    0,
+    0,
+    0,
+    "emg"
+  ],
+
+  "EEG 10": [
+    "EMG_left",
+    0,
+    0,
+    0,
+    "emg"
+  ],
+  
+  "EEG 11": [
+    "S_left",
+    -0.5,
+    3,
+    0,
+    "skull"
+   ],
+   
+  "EEG 12": [
+    "OFC_left",
+    2.7,
+    0.75,
+    2.4,
+    "depth"
+   ]
+ }
+}

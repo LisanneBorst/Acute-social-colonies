@@ -1,0 +1,13 @@
+*.png
+*.ppt
+*.pptx
+combined_epochs/*
+edfs/*
+epochs/*
+nwb_files/*
+event_trace/*
+epochs_to_plot/*
+*.fif
+*.edf
+*.nwb
+*.xlsx
